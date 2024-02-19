@@ -3,12 +3,12 @@
     <div class="grid md:grid-cols-2 gap-5 w-[85%] mx-auto px-3">
       <div>
         <div class="mb-5">
-          <h2 class="text-2xl font-semibold mb-7 md:px-10">FEATURED SERVICE</h2>
+          <h2 class="text-2xl font-semibold mb-7 md:px-10" data-aos="slide-left">FEATURED SERVICE</h2>
           <div class="h-1.5 w-20 bg-black/70"></div>
         </div>
         <div class="md:px-10 my-8">
          
-          <p class="text-lg font-thin mb-10 text-balance text-left">
+          <p class="text-lg font-thin mb-10 text-balance text-left" data-aos="fade-left">
             Welcome to our vibrant Digital Agency, where innovation meets creativity to bring ideas to life.
              As trailblazers in the dynamic world of digital solutions, we pride ourselves on transforming
               concepts into compelling digital experiences. At the core of our philosophy is a passion for 
@@ -24,7 +24,7 @@
       </div>
 
       <div class="grid grid-cols-2 gap-3">
-        <div>
+        <div data-aos="fade-up">
             <p><i class="fas fa-tv"></i></p>
             <h2 class="font-semibold my-3">Web Development</h2>
             <p class="text-sm">
@@ -33,7 +33,7 @@
                 stands out in the competitive online landscape.
             </p>
         </div>
-        <div>
+        <div data-aos="fade-up">
             <p><i class="fas fa-mobile-alt"></i></p>
             <h2 class="font-semibold my-3">App Development</h2>
             <p class="text-sm">
@@ -42,7 +42,7 @@
                   seamless digital experience.
             </p>
         </div>
-        <div>
+        <div data-aos="fade-right">
             <p><i class="fas fa-rocket"></i></p>
             <h2 class="font-semibold my-3">SEO Optimization</h2>
             <p class="text-sm">
@@ -51,7 +51,7 @@
                 to enhance search engine rankings and drive organic traffic effectively.
             </p>
         </div>
-        <div>
+        <div data-aos="fade-left"> 
             <p><i class="fas fa-mobile-alt"></i></p>
             <h2 class="font-semibold my-3">UI/UX Design</h2>
             <p class="text-sm">
