@@ -21,10 +21,10 @@
             :class="{'!max-h-[600px]':showNav}"
           >
             <NuxtLink to="/"><li>Home</li></NuxtLink>
-            <NuxtLink to="/"><li>About</li></NuxtLink>
+            <NuxtLink to="/about"><li>About</li></NuxtLink>
             <NuxtLink to="/"><li>Service</li></NuxtLink>
             <NuxtLink to="/"><li>Portfolio</li></NuxtLink>
-            <NuxtLink to="/"><li>Contact</li></NuxtLink>
+            <NuxtLink to="/contact"><li>Contact</li></NuxtLink>
             <NuxtLink to="/"><li>Templates</li></NuxtLink>
             <NuxtLink to="/" class="my-3">
               <li>

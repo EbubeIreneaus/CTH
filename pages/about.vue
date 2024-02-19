@@ -47,6 +47,28 @@
         in the digital realm.
       </p>
     </div>
+    <div class="bg-slate-200 my-10 py-10">
+      <div class="lg:max-w-[80%] mx-auto">
+        <h1 class="text-center text-3xl font-bold mb-10" data-aos="fade-down">Meet Our Team</h1>
+        <div class="grid lg:grid-cols-3 sm:grid-cols-2 ">
+          <div data-aos="fade-up">
+            <img src="/img/team/ceo.jpg" alt="Image of chijison tech ceo" class="w-[300px] h-[300px] rounded object-cover mx-auto">
+            <h1 class="text-lg font-bold text-center mt-3">Okigwe Alfred Chijison</h1>
+            <p class="text-center font-semibold text-slate-500 text-sm italic">chief executive officer</p>
+          </div>
+          <div data-aos="fade-up">
+            <img src="/img/team/fsd.jpg" alt="Image of chijison tech ceo" class="w-[300px] h-[300px] rounded object-cover mx-auto">
+            <h1 class="text-lg font-bold text-center mt-3">Theophane Chibuike</h1>
+            <p class="text-center font-semibold text-slate-500 text-sm italic">Director</p>
+          </div>
+          <div data-aos="fade-up">
+            <img src="/img/team/fsd.jpg" alt="Image of chijison tech ceo" class="w-[300px] h-[300px] rounded object-cover mx-auto">
+            <h1 class="text-lg font-bold text-center mt-3">Ebube Ireneaus</h1>
+            <p class="text-center font-semibold text-slate-500 text-sm italic">Project Manager</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
