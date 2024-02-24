@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CTHAdmin",
+			"path": "../../CTHAdmin"
+		},
+		{
+			"name": "Chijison Tech Hub",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
